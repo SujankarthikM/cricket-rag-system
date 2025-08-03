@@ -1,0 +1,40 @@
+# Ignore unnecessary files for Docker build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+cricket_env/
+.git/
+.gitignore
+*.md
+.DS_Store
+*.log
+
+# Keep only essential data
+!data_for_rag/
+!rag_system/
+!main.py
+!requirements.txt
+
+# Ignore other data directories (we only want data_for_rag)
+blogscrappping/
+reddit_data/
+odi/
+ipl/
+readmes/
+reddit/
+
+# Ignore build artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
