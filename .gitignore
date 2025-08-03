@@ -114,11 +114,6 @@ coverage.xml
 .dmypy.json
 dmypy.json
 
-# Scraped data directories (large files)
-blogscrappping/
-reddit_data/
-odi/
-ipl/
 
 # Backup files
 *.bak
