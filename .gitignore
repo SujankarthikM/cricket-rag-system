@@ -81,16 +81,11 @@ docker-compose.override.yml
 .azure/
 
 # Large data files (keep structure, ignore content)
-*.csv
-*.json
-*.pdf
+
 !requirements.txt
 !package.json
 
-# But keep essential data structure
-!data_for_rag/
-data_for_rag/*.pdf
-data_for_rag/*.json
+
 
 # Keep sample/config files
 !**/sample_*
@@ -126,4 +121,3 @@ dmypy.json
 
 # Office files
 ~$*
-*.pptx#
