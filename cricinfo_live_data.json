@@ -1,0 +1,508 @@
+{
+  "success": true,
+  "url": "https://www.espncricinfo.com/live-cricket-score",
+  "total_divs_found": 10,
+  "extracted_data": [
+    {
+      "div_index": 0,
+      "full_text": "Live1st Match, Lord's, August 05, 2025,The Hundred Women's CompetitionLondon Spirit (Women)(98/100 balls)174/5Oval Invincibles (Women)Invincibles chose to field.",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/the-hundred-women-s-competition-2025-1471001/london-spirit-women-vs-oval-invincibles-women-1st-match-1471036/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-red\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">1st Match, Lord's, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/the-hundred-women-s-competition-2025-1471001\" title=\"Women's Hundred\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">The Hundred Women's Competition</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"London Spirit (Women)\"><img alt=\"London Spirit (Women) Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">London Spirit (Women)</p><i class=\"icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover\" style=\"font-size:12px\"></i></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(98/100 balls) </span><strong class=\"\">174/5</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Oval Invincibles (Women)\"><img alt=\"Oval Invincibles (Women) Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3\">Oval Invincibles (Women)</p></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"LS-W vs OI-W - 1st Match\"><span>Invincibles chose to field.</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"LS-W vs OI-W, 1st Match, The Hundred Women's Competition\",\"description\":\"Spirit vs Invincibles\",\"startDate\":\"2025-08-05T13:45:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"LS-W vs OI-W, 1st Match, The Hundred Women's Competition\",\"description\":\"Spirit vs Invincibles\",\"url\":\"https://www.espncricinfo.com/series/the-hundred-women-s-competition-2025-1471001/london-spirit-women-vs-oval-invincibles-women-1st-match-1471036/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Spirit\"},{\"@type\":\"SportsTeam\",\"name\":\"Invincibles\"}],\"startDate\":\"2025-08-05T13:45:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"The Hundred Women's Competition\",\"URL\":\"https://www.espncricinfo.com/series/the-hundred-women-s-competition-2025-1471001\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"London\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Lord's, London, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "Live1st Match, Lord's, August 05, 2025,The Hundred Women's CompetitionLondon Spirit (Women)(98/100 balls)174/5Oval Invincibles (Women)Invincibles chose to field.",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"LS-W vs OI-W, 1st Match, The Hundred Women's Competition\",\"description\":\"Spirit vs Invincibles\",\"startDate\":\"2025-08-05T13:45:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"LS-W vs OI-W, 1st Match, The Hundred Women's Competition\",\"description\":\"Spirit vs Invincibles\",\"url\":\"https://www.espncricinfo.com/series/the-hundred-women-s-competition-2025-1471001/london-spirit-women-vs-oval-invincibles-women-1st-match-1471036/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Spirit\"},{\"@type\":\"SportsTeam\",\"name\":\"Invincibles\"}],\"startDate\":\"2025-08-05T13:45:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"The Hundred Women's Competition\",\"URL\":\"https://www.espncricinfo.com/series/the-hundred-women-s-competition-2025-1471001\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"London\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Lord's, London, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "Live1st Match, Lord's, August 05, 2025,The Hundred Women's CompetitionLondon Spirit (Women)(98/100 balls)174/5Oval Invincibles (Women)Invincibles chose to field.",
+          "href": "/series/the-hundred-women-s-competition-2025-1471001/london-spirit-women-vs-oval-invincibles-women-1st-match-1471036/live-cricket-score"
+        },
+        {
+          "text": "The Hundred Women's Competition",
+          "href": "/series/the-hundred-women-s-competition-2025-1471001"
+        }
+      ],
+      "images": [
+        {
+          "alt": "London Spirit (Women) Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Oval Invincibles (Women) Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": true,
+        "has_teams": false,
+        "has_overs": false,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [
+          "98/100"
+        ],
+        "match_status": "live"
+      }
+    },
+    {
+      "div_index": 1,
+      "full_text": "RESULT5th Test, The Oval, July 31 - August 04, 2025,India tour of EnglandIndia224&396England(T:374)247&367India won by 6 runs",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/india-in-england-2025-1445348/england-vs-india-5th-test-1448353/full-scorecard\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">RESULT</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">5th Test, The Oval, July 31 - August 04, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/india-in-england-2025-1445348\" title=\"ENG vs IND\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">India tour of England</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"India\"><img alt=\"India Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">India</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\"></span><strong class=\"\">224<span> &amp; </span></strong><strong class=\"\">396</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"England\"><img alt=\"England Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">England</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(T:374) </span><strong class=\"\">247<span> &amp; </span></strong><strong class=\"\">367</strong></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"India won by 6 runs\"><span>India won by 6 runs</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"IND vs ENG, 5th Test, India in England\",\"description\":\"India vs England\",\"startDate\":\"2025-07-31T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"IND vs ENG, 5th Test, India in England\",\"description\":\"India vs England\",\"url\":\"https://www.espncricinfo.com/series/india-in-england-2025-1445348/england-vs-india-5th-test-1448353/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"India\"},{\"@type\":\"SportsTeam\",\"name\":\"England\"}],\"startDate\":\"2025-07-31T10:00:00+00:00\",\"endDate\":\"2025-08-04T00:00:00+00:00\",\"eventAttendanceMode\":\"offline\",\"eventStatus\":\"RESULT\",\"organizer\":{\"name\":\"India in England\",\"URL\":\"https://www.espncricinfo.com/series/india-in-england-2025-1445348\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"London\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kennington Oval, London, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "RESULT5th Test, The Oval, July 31 - August 04, 2025,India tour of EnglandIndia224&396England(T:374)247&367India won by 6 runs",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"IND vs ENG, 5th Test, India in England\",\"description\":\"India vs England\",\"startDate\":\"2025-07-31T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"IND vs ENG, 5th Test, India in England\",\"description\":\"India vs England\",\"url\":\"https://www.espncricinfo.com/series/india-in-england-2025-1445348/england-vs-india-5th-test-1448353/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"India\"},{\"@type\":\"SportsTeam\",\"name\":\"England\"}],\"startDate\":\"2025-07-31T10:00:00+00:00\",\"endDate\":\"2025-08-04T00:00:00+00:00\",\"eventAttendanceMode\":\"offline\",\"eventStatus\":\"RESULT\",\"organizer\":{\"name\":\"India in England\",\"URL\":\"https://www.espncricinfo.com/series/india-in-england-2025-1445348\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"London\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kennington Oval, London, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "RESULT5th Test, The Oval, July 31 - August 04, 2025,India tour of EnglandIndia224&396England(T:374)247&367India won by 6 runs",
+          "href": "/series/india-in-england-2025-1445348/england-vs-india-5th-test-1448353/full-scorecard"
+        },
+        {
+          "text": "India tour of England",
+          "href": "/series/india-in-england-2025-1445348"
+        }
+      ],
+      "images": [
+        {
+          "alt": "India Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "England Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": false,
+        "has_teams": true,
+        "has_overs": false,
+        "has_wickets": false,
+        "teams_found": [
+          "India",
+          "England"
+        ],
+        "scores_found": [],
+        "match_status": ""
+      }
+    },
+    {
+      "div_index": 2,
+      "full_text": "Today, 5:30 PM1st Match (D/N), Lord's, August 05, 2025,The Hundred Men's CompetitionLondon Spirit (Men)Oval Invincibles (Men)Match starts in2hrs22mins",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/the-hundred-men-s-competition-2025-1471000/london-spirit-men-vs-oval-invincibles-men-1st-match-1471002/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Today, 5:30 PM</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">1st Match (D/N), Lord's, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/the-hundred-men-s-competition-2025-1471000\" title=\"Men's Hundred\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">The Hundred Men's Competition</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"London Spirit (Men)\"><img alt=\"London Spirit (Men) Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">London Spirit (Men)</p></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Oval Invincibles (Men)\"><img alt=\"Oval Invincibles (Men) Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Oval Invincibles (Men)</p></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"LS-M vs OI-M - 1st Match\"><span>Match starts in <b> 2 </b> hrs <b> 22 </b> mins</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"LS-M vs OI-M, 1st Match, The Hundred Men's Competition\",\"description\":\"Spirit vs Invincibles\",\"startDate\":\"2025-08-05T17:30:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"LS-M vs OI-M, 1st Match, The Hundred Men's Competition\",\"description\":\"Spirit vs Invincibles\",\"url\":\"https://www.espncricinfo.com/series/the-hundred-men-s-competition-2025-1471000/london-spirit-men-vs-oval-invincibles-men-1st-match-1471002/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Spirit\"},{\"@type\":\"SportsTeam\",\"name\":\"Invincibles\"}],\"startDate\":\"2025-08-05T17:30:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"offline\",\"eventStatus\":\"{{MATCH_START_TIME}}\",\"organizer\":{\"name\":\"The Hundred Men's Competition\",\"URL\":\"https://www.espncricinfo.com/series/the-hundred-men-s-competition-2025-1471000\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"London\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Lord's, London, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "Today, 5:30 PM1st Match (D/N), Lord's, August 05, 2025,The Hundred Men's CompetitionLondon Spirit (Men)Oval Invincibles (Men)Match starts in2hrs22mins",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"LS-M vs OI-M, 1st Match, The Hundred Men's Competition\",\"description\":\"Spirit vs Invincibles\",\"startDate\":\"2025-08-05T17:30:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"LS-M vs OI-M, 1st Match, The Hundred Men's Competition\",\"description\":\"Spirit vs Invincibles\",\"url\":\"https://www.espncricinfo.com/series/the-hundred-men-s-competition-2025-1471000/london-spirit-men-vs-oval-invincibles-men-1st-match-1471002/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Spirit\"},{\"@type\":\"SportsTeam\",\"name\":\"Invincibles\"}],\"startDate\":\"2025-08-05T17:30:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"offline\",\"eventStatus\":\"{{MATCH_START_TIME}}\",\"organizer\":{\"name\":\"The Hundred Men's Competition\",\"URL\":\"https://www.espncricinfo.com/series/the-hundred-men-s-competition-2025-1471000\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"London\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Lord's, London, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "Today, 5:30 PM1st Match (D/N), Lord's, August 05, 2025,The Hundred Men's CompetitionLondon Spirit (Men)Oval Invincibles (Men)Match starts in2hrs22mins",
+          "href": "/series/the-hundred-men-s-competition-2025-1471000/london-spirit-men-vs-oval-invincibles-men-1st-match-1471002/live-cricket-score"
+        },
+        {
+          "text": "The Hundred Men's Competition",
+          "href": "/series/the-hundred-men-s-competition-2025-1471000"
+        }
+      ],
+      "images": [
+        {
+          "alt": "London Spirit (Men) Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Oval Invincibles (Men) Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": false,
+        "has_teams": false,
+        "has_overs": false,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [],
+        "match_status": ""
+      }
+    },
+    {
+      "div_index": 3,
+      "full_text": "LiveChester-le-Street, August 05, 2025,One-Day CupDurham310/7Sussex(19.4/50 ov, T:311)87/4Sussex need 224 runs from 30.2 overs.",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/one-day-cup-2025-1461951/durham-vs-sussex-1461956/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-red\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Chester-le-Street, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/one-day-cup-2025-1461951\" title=\"One-Day Cup\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">One-Day Cup</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Durham\"><img alt=\"Durham Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3\">Durham</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\"></span><strong class=\"ds-text-typo-mid3\">310/7</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Sussex\"><img alt=\"Sussex Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Sussex</p><i class=\"icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover\" style=\"font-size:12px\"></i></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(19.4/50 ov, T:311) </span><strong class=\"\">87/4</strong></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"DUR vs SUS - \"><span>Sussex need 224 runs from 30.2 overs.</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"DUR vs SUS, , One-Day Cup\",\"description\":\"Durham vs Sussex\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"DUR vs SUS, , One-Day Cup\",\"description\":\"Durham vs Sussex\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/durham-vs-sussex-1461956/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Durham\"},{\"@type\":\"SportsTeam\",\"name\":\"Sussex\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Chester-le-Street\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Riverside Ground, Chester-le-Street, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "LiveChester-le-Street, August 05, 2025,One-Day CupDurham310/7Sussex(19.4/50 ov, T:311)87/4Sussex need 224 runs from 30.2 overs.",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"DUR vs SUS, , One-Day Cup\",\"description\":\"Durham vs Sussex\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"DUR vs SUS, , One-Day Cup\",\"description\":\"Durham vs Sussex\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/durham-vs-sussex-1461956/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Durham\"},{\"@type\":\"SportsTeam\",\"name\":\"Sussex\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Chester-le-Street\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Riverside Ground, Chester-le-Street, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "LiveChester-le-Street, August 05, 2025,One-Day CupDurham310/7Sussex(19.4/50 ov, T:311)87/4Sussex need 224 runs from 30.2 overs.",
+          "href": "/series/one-day-cup-2025-1461951/durham-vs-sussex-1461956/live-cricket-score"
+        },
+        {
+          "text": "One-Day Cup",
+          "href": "/series/one-day-cup-2025-1461951"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Durham Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Sussex Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": true,
+        "has_teams": false,
+        "has_overs": true,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [
+          "4/50"
+        ],
+        "match_status": "live"
+      }
+    },
+    {
+      "div_index": 4,
+      "full_text": "LiveNeath, August 05, 2025,One-Day CupHampshire324/6Glamorgan(16.4/50 ov, T:325)119/5Glamorgan need 206 runs from 33.2 overs.",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/one-day-cup-2025-1461951/glamorgan-vs-hampshire-1461957/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-red\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Neath, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/one-day-cup-2025-1461951\" title=\"One-Day Cup\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">One-Day Cup</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Hampshire\"><img alt=\"Hampshire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3\">Hampshire</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\"></span><strong class=\"ds-text-typo-mid3\">324/6</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Glamorgan\"><img alt=\"Glamorgan Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Glamorgan</p><i class=\"icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover\" style=\"font-size:12px\"></i></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(16.4/50 ov, T:325) </span><strong class=\"\">119/5</strong></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"HAM vs GLA - \"><span>Glamorgan need 206 runs from 33.2 overs.</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"HAM vs GLA, , One-Day Cup\",\"description\":\"Hampshire vs Glamorgan\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"HAM vs GLA, , One-Day Cup\",\"description\":\"Hampshire vs Glamorgan\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/glamorgan-vs-hampshire-1461957/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Hampshire\"},{\"@type\":\"SportsTeam\",\"name\":\"Glamorgan\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Neath\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"The Gnoll, Neath, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "LiveNeath, August 05, 2025,One-Day CupHampshire324/6Glamorgan(16.4/50 ov, T:325)119/5Glamorgan need 206 runs from 33.2 overs.",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"HAM vs GLA, , One-Day Cup\",\"description\":\"Hampshire vs Glamorgan\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"HAM vs GLA, , One-Day Cup\",\"description\":\"Hampshire vs Glamorgan\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/glamorgan-vs-hampshire-1461957/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Hampshire\"},{\"@type\":\"SportsTeam\",\"name\":\"Glamorgan\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Neath\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"The Gnoll, Neath, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "LiveNeath, August 05, 2025,One-Day CupHampshire324/6Glamorgan(16.4/50 ov, T:325)119/5Glamorgan need 206 runs from 33.2 overs.",
+          "href": "/series/one-day-cup-2025-1461951/glamorgan-vs-hampshire-1461957/live-cricket-score"
+        },
+        {
+          "text": "One-Day Cup",
+          "href": "/series/one-day-cup-2025-1461951"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Hampshire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Glamorgan Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": true,
+        "has_teams": false,
+        "has_overs": true,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [
+          "4/50"
+        ],
+        "match_status": "live"
+      }
+    },
+    {
+      "div_index": 5,
+      "full_text": "LiveCheltenham, August 05, 2025,One-Day CupGloucestershire341/8Derbyshire(19.4/50 ov, T:342)111/2Derbyshire need 231 runs from 30.2 overs.",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/one-day-cup-2025-1461951/gloucestershire-vs-derbyshire-1461958/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-red\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Cheltenham, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/one-day-cup-2025-1461951\" title=\"One-Day Cup\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">One-Day Cup</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Gloucestershire\"><img alt=\"Gloucestershire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3\">Gloucestershire</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\"></span><strong class=\"ds-text-typo-mid3\">341/8</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Derbyshire\"><img alt=\"Derbyshire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Derbyshire</p><i class=\"icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover\" style=\"font-size:12px\"></i></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(19.4/50 ov, T:342) </span><strong class=\"\">111/2</strong></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"GLO vs DER - \"><span>Derbyshire need 231 runs from 30.2 overs.</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"GLO vs DER, , One-Day Cup\",\"description\":\"Gloucs vs Derbyshire\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"GLO vs DER, , One-Day Cup\",\"description\":\"Gloucs vs Derbyshire\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/gloucestershire-vs-derbyshire-1461958/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Gloucs\"},{\"@type\":\"SportsTeam\",\"name\":\"Derbyshire\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Cheltenham\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"College Ground, Cheltenham, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "LiveCheltenham, August 05, 2025,One-Day CupGloucestershire341/8Derbyshire(19.4/50 ov, T:342)111/2Derbyshire need 231 runs from 30.2 overs.",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"GLO vs DER, , One-Day Cup\",\"description\":\"Gloucs vs Derbyshire\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"GLO vs DER, , One-Day Cup\",\"description\":\"Gloucs vs Derbyshire\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/gloucestershire-vs-derbyshire-1461958/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Gloucs\"},{\"@type\":\"SportsTeam\",\"name\":\"Derbyshire\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Cheltenham\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"College Ground, Cheltenham, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "LiveCheltenham, August 05, 2025,One-Day CupGloucestershire341/8Derbyshire(19.4/50 ov, T:342)111/2Derbyshire need 231 runs from 30.2 overs.",
+          "href": "/series/one-day-cup-2025-1461951/gloucestershire-vs-derbyshire-1461958/live-cricket-score"
+        },
+        {
+          "text": "One-Day Cup",
+          "href": "/series/one-day-cup-2025-1461951"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Gloucestershire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Derbyshire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": true,
+        "has_teams": false,
+        "has_overs": true,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [
+          "4/50"
+        ],
+        "match_status": "live"
+      }
+    },
+    {
+      "div_index": 6,
+      "full_text": "ABANDONEDSedbergh, August 05, 2025,One-Day CupLancashireNorthamptonshireMatch abandoned without a ball bowled",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/one-day-cup-2025-1461951/lancashire-vs-northamptonshire-1461959/full-scorecard\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">ABANDONED</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Sedbergh, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/one-day-cup-2025-1461951\" title=\"One-Day Cup\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">One-Day Cup</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Lancashire\"><img alt=\"Lancashire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Lancashire</p></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Northamptonshire\"><img alt=\"Northamptonshire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Northamptonshire</p></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"Match abandoned without a ball bowled\"><span>Match abandoned without a ball bowled</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"LAN vs NOR, , One-Day Cup\",\"description\":\"Lancashire vs Northants\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"LAN vs NOR, , One-Day Cup\",\"description\":\"Lancashire vs Northants\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/lancashire-vs-northamptonshire-1461959/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Lancashire\"},{\"@type\":\"SportsTeam\",\"name\":\"Northants\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"offline\",\"eventStatus\":\"ABANDONED\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Sedbergh\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Sedbergh School, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "ABANDONEDSedbergh, August 05, 2025,One-Day CupLancashireNorthamptonshireMatch abandoned without a ball bowled",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"LAN vs NOR, , One-Day Cup\",\"description\":\"Lancashire vs Northants\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"LAN vs NOR, , One-Day Cup\",\"description\":\"Lancashire vs Northants\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/lancashire-vs-northamptonshire-1461959/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Lancashire\"},{\"@type\":\"SportsTeam\",\"name\":\"Northants\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"offline\",\"eventStatus\":\"ABANDONED\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Sedbergh\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Sedbergh School, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "ABANDONEDSedbergh, August 05, 2025,One-Day CupLancashireNorthamptonshireMatch abandoned without a ball bowled",
+          "href": "/series/one-day-cup-2025-1461951/lancashire-vs-northamptonshire-1461959/full-scorecard"
+        },
+        {
+          "text": "One-Day Cup",
+          "href": "/series/one-day-cup-2025-1461951"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Lancashire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Northamptonshire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": false,
+        "has_teams": false,
+        "has_overs": false,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [],
+        "match_status": ""
+      }
+    },
+    {
+      "div_index": 7,
+      "full_text": "LiveSookholme, August 05, 2025,One-Day CupNottinghamshire(46/46 ov)283/9Essex(5.3/46 ov, T:286)36/0Essex need 250 runs from 40.3 overs.",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/one-day-cup-2025-1461951/nottinghamshire-vs-essex-1461960/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-red\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Sookholme, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/one-day-cup-2025-1461951\" title=\"One-Day Cup\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">One-Day Cup</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Nottinghamshire\"><img alt=\"Nottinghamshire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3\">Nottinghamshire</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(46/46 ov) </span><strong class=\"ds-text-typo-mid3\">283/9</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Essex\"><img alt=\"Essex Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Essex</p><i class=\"icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover\" style=\"font-size:12px\"></i></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(5.3/46 ov, T:286) </span><strong class=\"\">36/0</strong></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"NOT vs ESS - \"><span>Essex need 250 runs from 40.3 overs.</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"NOT vs ESS, , One-Day Cup\",\"description\":\"Notts vs Essex\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"NOT vs ESS, , One-Day Cup\",\"description\":\"Notts vs Essex\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/nottinghamshire-vs-essex-1461960/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Notts\"},{\"@type\":\"SportsTeam\",\"name\":\"Essex\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Sookholme\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"The John Fretwell Sporting Complex, Sookholme, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "LiveSookholme, August 05, 2025,One-Day CupNottinghamshire(46/46 ov)283/9Essex(5.3/46 ov, T:286)36/0Essex need 250 runs from 40.3 overs.",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"NOT vs ESS, , One-Day Cup\",\"description\":\"Notts vs Essex\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"NOT vs ESS, , One-Day Cup\",\"description\":\"Notts vs Essex\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/nottinghamshire-vs-essex-1461960/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Notts\"},{\"@type\":\"SportsTeam\",\"name\":\"Essex\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Sookholme\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"The John Fretwell Sporting Complex, Sookholme, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "LiveSookholme, August 05, 2025,One-Day CupNottinghamshire(46/46 ov)283/9Essex(5.3/46 ov, T:286)36/0Essex need 250 runs from 40.3 overs.",
+          "href": "/series/one-day-cup-2025-1461951/nottinghamshire-vs-essex-1461960/live-cricket-score"
+        },
+        {
+          "text": "One-Day Cup",
+          "href": "/series/one-day-cup-2025-1461951"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Nottinghamshire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Essex Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": true,
+        "has_teams": false,
+        "has_overs": true,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [
+          "46/46",
+          "3/46"
+        ],
+        "match_status": "live"
+      }
+    },
+    {
+      "div_index": 8,
+      "full_text": "LiveScarborough, August 05, 2025,One-Day CupWarwickshire137Yorkshire(25/50 ov, T:138)87/4Yorkshire need 51 runs from 25 overs.",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/one-day-cup-2025-1461951/yorkshire-vs-warwickshire-1461961/live-cricket-score\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"ds-relative\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-red\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Scarborough, August 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/one-day-cup-2025-1461951\" title=\"One-Day Cup\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">One-Day Cup</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Warwickshire\"><img alt=\"Warwickshire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate !ds-text-typo-mid3\">Warwickshire</p></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\"></span><strong class=\"ds-text-typo-mid3\">137</strong></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Yorkshire\"><img alt=\"Yorkshire Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Yorkshire</p><i class=\"icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover\" style=\"font-size:12px\"></i></div><div class=\"ds-text-compact-s ds-text-typo ds-text-right ds-whitespace-nowrap\"><span class=\"ds-text-compact-xs ds-mr-0.5\">(25/50 ov, T:138) </span><strong class=\"\">87/4</strong></div></div></div></div><p class=\"ds-text-tight-s ds-font-medium ds-truncate ds-text-typo\" title=\"WAR vs YOR - \"><span>Yorkshire need 51 runs from 25 overs.</span></p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"WAR vs YOR, , One-Day Cup\",\"description\":\"Warwickshire vs Yorkshire\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"WAR vs YOR, , One-Day Cup\",\"description\":\"Warwickshire vs Yorkshire\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/yorkshire-vs-warwickshire-1461961/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Warwickshire\"},{\"@type\":\"SportsTeam\",\"name\":\"Yorkshire\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Scarborough\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"North Marine Road Ground, Scarborough, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "LiveScarborough, August 05, 2025,One-Day CupWarwickshire137Yorkshire(25/50 ov, T:138)87/4Yorkshire need 51 runs from 25 overs.",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"WAR vs YOR, , One-Day Cup\",\"description\":\"Warwickshire vs Yorkshire\",\"startDate\":\"2025-08-05T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"WAR vs YOR, , One-Day Cup\",\"description\":\"Warwickshire vs Yorkshire\",\"url\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951/yorkshire-vs-warwickshire-1461961/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"Warwickshire\"},{\"@type\":\"SportsTeam\",\"name\":\"Yorkshire\"}],\"startDate\":\"2025-08-05T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"One-Day Cup\",\"URL\":\"https://www.espncricinfo.com/series/one-day-cup-2025-1461951\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Scarborough\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"North Marine Road Ground, Scarborough, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "LiveScarborough, August 05, 2025,One-Day CupWarwickshire137Yorkshire(25/50 ov, T:138)87/4Yorkshire need 51 runs from 25 overs.",
+          "href": "/series/one-day-cup-2025-1461951/yorkshire-vs-warwickshire-1461961/live-cricket-score"
+        },
+        {
+          "text": "One-Day Cup",
+          "href": "/series/one-day-cup-2025-1461951"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Warwickshire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Yorkshire Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": true,
+        "has_teams": false,
+        "has_overs": false,
+        "has_wickets": false,
+        "teams_found": [],
+        "scores_found": [
+          "25/50"
+        ],
+        "match_status": "live"
+      }
+    },
+    {
+      "div_index": 9,
+      "full_text": "Not covered LiveTour Match, Beckenham, August 03 - 05, 2025,Pakistan Shaheens tour of EnglandMCCY-SACA-XIShaheensnull",
+      "html_content": "<div class=\"ds-px-4 ds-py-3\"><a class=\"ds-no-tap-higlight\" href=\"/series/pakistan-shaheens-in-england-2025-1497395/marylebone-cricket-club-young-cricketers-and-south-asian-cricket-academy-xi-vs-pakistan-shaheens-tour-match-1497400/full-scorecard\" title=\"\"><div class=\"ds-text-compact-xxs\"><div class=\"\"><div class=\"ds-flex ds-justify-between ds-items-center\"><div class=\"ds-truncate\"><span class=\"ds-text-raw-secondary-orange\"><span class=\"ds-text-tight-xs ds-font-bold ds-uppercase ds-leading-5\">Not covered Live</span></span><span class=\"ds-flex ds-items-center\"><div class=\"ds-text-tight-xs ds-truncate ds-text-typo-mid3\">Tour Match, Beckenham, August 03 - 05, 2025<!-- -->, <a class=\"ds-inline-flex ds-items-start ds-leading-none !ds-inline\" href=\"/series/pakistan-shaheens-in-england-2025-1497395\" title=\"Shaheens in England\"><span class=\"ds-text-tight-xs ds-block ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary !ds-inline\">Pakistan Shaheens tour of England</span></a></div></span></div><div class=\"ds-leading-[0]\"></div></div><div class=\"\"><div class=\"ds-flex ds-flex-col ds-mt-2 ds-mb-2\"><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"MCCY-SACA-XI\"><img alt=\"MCCY-SACA-XI Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">MCCY-SACA-XI</p></div></div><div class=\"ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-my-1\"><div class=\"ds-flex ds-items-center ds-min-w-0 ds-mr-1\" title=\"Shaheens\"><img alt=\"Shaheens Flag\" class=\"ds-mr-2\" fetchpriority=\"auto\" height=\"20\" src=\"https://wassets.hscicdn.com/static/images/lazyimage-transparent.png\" style=\"width:20px;height:20px\" width=\"20\"/><p class=\"ds-text-tight-m ds-font-bold ds-capitalize ds-truncate\">Shaheens</p></div></div></div></div><p class=\"ds-text-tight-xs ds-font-medium ds-truncate ds-opacity-0\">null</p></div></div></a><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"MCSAC vs SHA, Tour Match, Pakistan Shaheens in England\",\"description\":\"MCCY-SACA-XI vs Shaheens\",\"startDate\":\"2025-08-03T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"MCSAC vs SHA, Tour Match, Pakistan Shaheens in England\",\"description\":\"MCCY-SACA-XI vs Shaheens\",\"url\":\"https://www.espncricinfo.com/series/pakistan-shaheens-in-england-2025-1497395/marylebone-cricket-club-young-cricketers-and-south-asian-cricket-academy-xi-vs-pakistan-shaheens-tour-match-1497400/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"MCCY-SACA-XI\"},{\"@type\":\"SportsTeam\",\"name\":\"Shaheens\"}],\"startDate\":\"2025-08-03T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"Pakistan Shaheens in England\",\"URL\":\"https://www.espncricinfo.com/series/pakistan-shaheens-in-england-2025-1497395\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Beckenham\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kent County Cricket Ground, Beckenham, England\"}}}}</script></div>",
+      "child_elements": [
+        {
+          "tag": "a",
+          "text": "Not covered LiveTour Match, Beckenham, August 03 - 05, 2025,Pakistan Shaheens tour of EnglandMCCY-SACA-XIShaheensnull",
+          "classes": [
+            "ds-no-tap-higlight"
+          ]
+        },
+        {
+          "tag": "script",
+          "text": "{\"@context\":\"https://schema.org\",\"@type\":\"BroadcastEvent\",\"name\":\"MCSAC vs SHA, Tour Match, Pakistan Shaheens in England\",\"description\":\"MCCY-SACA-XI vs Shaheens\",\"startDate\":\"2025-08-03T10:00:00+00:00\",\"broadcastOfEvent\":{\"@type\":\"SportsEvent\",\"name\":\"MCSAC vs SHA, Tour Match, Pakistan Shaheens in England\",\"description\":\"MCCY-SACA-XI vs Shaheens\",\"url\":\"https://www.espncricinfo.com/series/pakistan-shaheens-in-england-2025-1497395/marylebone-cricket-club-young-cricketers-and-south-asian-cricket-academy-xi-vs-pakistan-shaheens-tour-match-1497400/live-cricket-score\",\"competitor\":[{\"@type\":\"SportsTeam\",\"name\":\"MCCY-SACA-XI\"},{\"@type\":\"SportsTeam\",\"name\":\"Shaheens\"}],\"startDate\":\"2025-08-03T10:00:00+00:00\",\"endDate\":\"2025-08-05T00:00:00+00:00\",\"eventAttendanceMode\":\"online\",\"eventStatus\":\"live\",\"organizer\":{\"name\":\"Pakistan Shaheens in England\",\"URL\":\"https://www.espncricinfo.com/series/pakistan-shaheens-in-england-2025-1497395\"},\"performer\":\"cricketer\",\"location\":{\"@type\":\"City\",\"name\":\"Beckenham\",\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kent County Cricket Ground, Beckenham, England\"}}}}",
+          "classes": []
+        }
+      ],
+      "links": [
+        {
+          "text": "Not covered LiveTour Match, Beckenham, August 03 - 05, 2025,Pakistan Shaheens tour of EnglandMCCY-SACA-XIShaheensnull",
+          "href": "/series/pakistan-shaheens-in-england-2025-1497395/marylebone-cricket-club-young-cricketers-and-south-asian-cricket-academy-xi-vs-pakistan-shaheens-tour-match-1497400/full-scorecard"
+        },
+        {
+          "text": "Pakistan Shaheens tour of England",
+          "href": "/series/pakistan-shaheens-in-england-2025-1497395"
+        }
+      ],
+      "images": [
+        {
+          "alt": "MCCY-SACA-XI Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        },
+        {
+          "alt": "Shaheens Flag",
+          "src": "https://wassets.hscicdn.com/static/images/lazyimage-transparent.png"
+        }
+      ],
+      "cricket_content": {
+        "has_scores": false,
+        "has_teams": true,
+        "has_overs": false,
+        "has_wickets": false,
+        "teams_found": [
+          "England",
+          "Pakistan"
+        ],
+        "scores_found": [],
+        "match_status": "live"
+      }
+    }
+  ],
+  "page_title": "Live Cricket Score | Today's Cricket Match Scorecard & Commentary",
+  "scrape_time": "2025-08-05 20:40:46"
+}
