@@ -5,6 +5,7 @@ from typing import Union
 from config import Config
 from .paypal_provider import PayPalProvider
 from .base_provider import BaseLLMProvider
+from .gemini_provider import GeminiProvider
 
 class LLMProviderFactory:
     """Factory to create LLM providers based on configuration"""
@@ -45,3 +46,7 @@ class LLMProviderFactory:
         }
         
         return provider_info.get(provider_type.lower(), {})
+
+def get_provider(name, **kwargs):
+    if name == "gemini":
+        return GeminiProvider(api_key=kwargs.get("api_key"))
