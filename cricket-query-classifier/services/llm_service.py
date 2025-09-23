@@ -4,13 +4,16 @@ Supports multiple providers (PayPal CosmosAI, OpenAI, etc.)
 """
 import json
 from typing import Dict, Any, List
-from .llm_providers.provider_factory import LLMProviderFactory
+from config import Config
+from .llm_providers.provider_factory import get_provider
 from .llm_providers.base_provider import BaseLLMProvider
 
 class LLMService:
     def __init__(self):
-        self.provider: BaseLLMProvider = LLMProviderFactory.create_provider()
-    
+        if Config.LLM_PROVIDER == "gemini":
+            self.provider = get_provider("gemini", api_key=Config.GEMINI_API_KEY)
+        # ...existing code for other providers...
+
     async def classify_query(self, classification_prompt: str) -> Dict[str, Any]:
         """
         Make API call to LLM for query classification

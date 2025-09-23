@@ -5,7 +5,8 @@ load_dotenv()
 
 class Config:
     # LLM Provider Settings
-    LLM_PROVIDER = os.getenv("LLM_PROVIDER", "paypal")  # paypal, openai, custom
+    LLM_PROVIDER = "gemini"
+    GEMINI_API_KEY = ""
     
     # PayPal CosmosAI Settings
     PAYPAL_API_URL = os.getenv("PAYPAL_API_URL", "https://aiplatform.dev51.cbf.dev.paypalinc.com/cosmosai/llm/v1/chat/completions")
