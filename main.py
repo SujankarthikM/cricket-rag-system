@@ -12,6 +12,7 @@ import time
 from pathlib import Path
 import tempfile
 import shutil
+import sqlite3
 
 from rag_system.data_ingestion import DataIngestion
 from rag_system.vector_store import VectorStore
