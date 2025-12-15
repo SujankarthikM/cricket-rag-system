@@ -45,7 +45,7 @@ class CricinfoLiveScraper:
         }
         self.session.headers.update(headers)
     
-    def scrape_live_scores(self, url: str = "https://www.espncricinfo.com/live-cricket-score") -> Dict[str, Any]:
+    def scrape_live_scores(self, url: str = "https://www.espncricinfo.com/cricketers/brian-masaba-420492") -> Dict[str, Any]:
         """
         Scrape live cricket scores from ESPNCricinfo
         

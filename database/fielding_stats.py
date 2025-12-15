@@ -45,32 +45,17 @@ def scrape_fielding_stats(url):
 if __name__ == '__main__':
     
     import csv
-    all_results = {}
-    for x in range(1, 41):
-        print(f"Page:{x}")
-        url = f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=11;filter=advanced;orderby=matches;page={x};size=200;template=results;type=fielding"
-        res = scrape_fielding_stats(url)
-        if res:
-            all_results.update(res)
+    # Load the first 17 columns from cricket_data.csv
+    cricket_df = pd.read_csv('cricket_data.csv', dtype=str)
+    columns_needed = list(cricket_df.columns[1:4]) + list(cricket_df.columns[11:14])
 
-    for x in range(1, 5):
-        url = f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=6;filter=advanced;orderby=matches;page={x};size=200;template=results;trophy=117;type=fielding"
-        res = scrape_fielding_stats(url)
-        if res:
-            all_results.update(res)
-
-    with open('unique_fielding_players.csv', 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Player Name', 'Player ID'])
-        for player_id, value in all_results.items():
-            writer.writerow([value, player_id])
     from concurrent.futures import ThreadPoolExecutor, as_completed
 
     urls = []
-    for x in range(1, 41):
+    for x in range(1,41):
         print(f"Page:{x}")
         urls.append(f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=11;filter=advanced;orderby=matches;page={x};size=200;template=results;type=fielding")
-    for x in range(1, 5):
+    for x in range(1,5):
         urls.append(f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=6;filter=advanced;orderby=matches;page={x};size=200;template=results;trophy=117;type=fielding")
 
     all_results = {}
@@ -81,8 +66,16 @@ if __name__ == '__main__':
             if res:
                 all_results.update(res)
 
+    # Write to CSV with the 17 columns from cricket_data.csv
     with open('unique_fielding_players.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Player Name', 'Player ID'])
+        # Write header: Player Name, Player ID, then the 17 columns
+        writer.writerow(['Player Name', 'Player ID'] + list(columns_needed))
         for player_id, value in all_results.items():
-            writer.writerow([value, player_id])
+            # Try to get the row for this player_id
+            row = cricket_df[cricket_df['ID'] == str(player_id)]
+            if not row.empty:
+                row_data = row.iloc[0][columns_needed].tolist()
+            else:
+                row_data = [''] * len(columns_needed)
+            writer.writerow([value, player_id] + row_data)
